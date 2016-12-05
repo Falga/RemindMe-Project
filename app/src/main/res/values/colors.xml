@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#00acc1</color>
-    <color name="colorPrimaryDark">#008a9a</color>
-    <color name="mainBackground">#e2e2e2</color>
+    <color name="colorPrimary">#7b1fa2</color> //Purple 700 //цвет текста белый
+    <color name="colorPrimaryDark">#6a1b9a</color> //Purple 800 //цвет текста белый
+    <color name="mainBackground">#f3e5f5</color> //Purple 50 //цвет текста чёрный
     <color name="colorWhite">#ffffff</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#69f0ae</color> //Green A200 цвет текста чёрный
 
 </resources>
