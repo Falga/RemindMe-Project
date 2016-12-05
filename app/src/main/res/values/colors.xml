@@ -5,5 +5,6 @@
     <color name="mainBackground">#f3e5f5</color> //Purple 50 //цвет текста чёрный
     <color name="colorWhite">#ffffff</color>
     <color name="colorAccent">#69f0ae</color> //Green A200 цвет текста чёрный
+    <color name="colorBlack">#191919</color>
 
 </resources>

@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import com.brief.name.remindme.R;
 
 public class TodoFragment extends AbstractTabFragment {
-    private static final int LAYOUT = R.layout.fragment_example;
+    private static final int LAYOUT = R.layout.fragment_history;
 
     public static TodoFragment getInstance(Context context) {
         Bundle args = new Bundle();
